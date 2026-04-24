@@ -21,7 +21,7 @@ Acest repository conține proiecte de modelare matematică și optimizare a proc
 * **Resurse:**
     * [Raport Tehnic (PDF)](Proiect%20Problema%20de%20Transport.pdf)
     * [Prezentare Proiect (PPTX)](Problema%20de%20Transport.pptx)
-  -**Contribuția mea:** Formularea modelului matematic (PTE) , aplicarea metodei colțului Nord-Vest pentru soluția inițială și a metodei potențialelor pentru optimizarea latenței de la 680 ms la 590 ms.
+  - **Contribuția mea:** Formularea modelului matematic (PTE) , aplicarea metodei colțului Nord-Vest pentru soluția inițială și a metodei potențialelor pentru optimizarea latenței de la 680 ms la 590 ms.
 
 ## 🤝 Colaborare și Implementare
 Proiectele au fost realizate în echipă, implicând atât modelare teoretică, cât și implementare software.

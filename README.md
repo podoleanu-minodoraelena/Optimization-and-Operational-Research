@@ -29,7 +29,9 @@ Proiectele au fost realizate în echipă, implicând atât modelare teoretică, 
 - **Cod Sursă:** Link-urile către implementările în limbaje de programare (Python) sunt incluse în  rapoartele tehnice.
 
 ## 🛠️ Concepte Cheie:
-- Programare Liniară (Simplex Primal)
-- Teoria Jocurilor (Strategii Pure și Mixte)
-- Optimizarea Resurselor
-- Analiză Decizională
+* Programare Liniară (Simplex Primal)
+* Teoria Jocurilor (Strategii Pure și Mixte)
+* Probleme de Transport (Metoda Colțului Nord-Vest & Metoda Potențialelor)
+* Optimizarea Latenței în Cloud Computing
+* Optimizarea Resurselor
+* Analiză Decizională

@@ -16,6 +16,16 @@ Acest repository conține proiecte de modelare matematică și optimizare a proc
   - [Raport Tehnic (PDF)](03-Game-Theory-Cybersecurity-Report.pdf)
   - [Prezentare Proiect (PPTX)](04-Game-Theory-Strategic-Decisions-Presentation.pptx)
 - **Contribuția mea:** Definirea matricei câștigurilor, determinarea strategiilor optime (puncte șa și strategii mixte) și analiza echilibrului strategic.
+  3. Problema de Transport în Optimizarea Logistică
+Problemă: Minimizarea costurilor totale de distribuție între furnizori și consumatori, asigurând echilibrul dintre cerere și ofertă.
+
+Resurse:
+
+Raport Tehnic (PDF)
+
+Prezentare Proiect (PPTX)
+
+Contribuția mea: Formularea modelului matematic de transport, aplicarea algoritmilor de optimizare și analiza planului optim de livrare pentru reducerea costurilor.
 
 ## 🤝 Colaborare și Implementare
 Proiectele au fost realizate în echipă, implicând atât modelare teoretică, cât și implementare software.

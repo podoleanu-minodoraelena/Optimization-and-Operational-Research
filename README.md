@@ -1,6 +1,6 @@
 # Optimization and Operational Research Projects
 
-Acest repository conține proiecte de modelare matematică și optimizare a proceselor, realizate în cadrul disciplinei Cercetări Operaționale. Analizele demonstrează aplicarea metodelor de programare liniară și a teoriei jocurilor în rezolvarea unor probleme de business și securitate.
+Acest repository conține proiecte de modelare matematică și optimizare a proceselor, realizate în cadrul disciplinei Cercetări Operaționale. Analizele demonstrează aplicarea metodelor de programare liniară, a teoriei jocurilor și a problemelor de transport în rezolvarea unor provocări de business, securitate și logistică.
 
 ## 📊 Proiecte incluse:
 
